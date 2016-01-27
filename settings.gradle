@@ -1,0 +1,1 @@
+include ':app', ':hawk_fastjson_lib', ':hawk_gson_lib'
